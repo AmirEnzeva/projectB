@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/projectB/static/css/main.e6c13ad2.css",
+    "main.js": "/projectB/static/js/main.7a63385f.js",
+    "static/media/banana.svg": "/projectB/static/media/banana.97cc878cef2aa6117ca4902fbd011e7e.svg",
+    "index.html": "/projectB/index.html",
+    "main.e6c13ad2.css.map": "/projectB/static/css/main.e6c13ad2.css.map",
+    "main.7a63385f.js.map": "/projectB/static/js/main.7a63385f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7a63385f.js"
+  ]
+}
